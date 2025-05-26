@@ -76,11 +76,18 @@ A more detailed description of the dataset can be found in the paper '**An Exper
 ## Please cite our paper if you use the PMD or our code
 Bibtex entry:
 ```bibtex
-TODO: add the Bibtex entry after publication
+@article{gouverneur2024experimental,
+  title={An Experimental and Clinical Physiological Signal Dataset for Automated Pain Recognition},
+  author={Gouverneur, Philip and Badura, Aleksandra and Li, Fr{\'e}d{\'e}ric and Bie{\'n}kowska, Maria and Luebke, Luisa and Adamczyk, Wac{\l}aw M and Szikszay, Tibor M and My{\'s}liwiec, Andrzej and Luedtke, Kerstin and Grzegorzek, Marcin and others},
+  journal={Scientific Data},
+  volume={11},
+  number={1},
+  pages={1051},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
 ```
 
-__TODO: update links to the to the paper and datasets, eventually__
-
-[PMED_link]: https://github.com/gouverneurp/PMD
-[PMCD_link]: https://github.com/gouverneurp/PMD
-[paper_link]: https://github.com/gouverneurp/PMD
+[PMED_link]: https://github.com/gouverneurp/PMD/tree/main?tab=readme-ov-file#how-to-use-the-pmed
+[PMCD_link]: https://github.com/gouverneurp/PMD/tree/main?tab=readme-ov-file#how-to-use-the-pmcd
+[paper_link]: https://rdcu.be/enIRG
