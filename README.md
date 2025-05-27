@@ -1,11 +1,11 @@
 # PainMonit Dataset (PMD)
 
 ## Description
-This repository summarises the code made public available for the **PainMonit Dataset** (PMD) publication.
+This repository summarises the code made publicly available for the **PainMonit Dataset** (PMD) publication, which can be found via the following link: [PMD][PMD_link]
 
-The dataset has two parts, the heat-based **PainMonit Experimental Dataset** ([PMED][PMED_link]) and the physiotherapy-based **PainMonit Clinical Dataset** ([PMCD][PMCD_link]). The code for the former can be found under the directory [PMED/](PMED/), for the latter under directory [PMCD/](PMCD/).
+The dataset comprises two parts: the heat-based **PainMonit Experimental Dataset** ([PMED][PMED_link]) and the physiotherapy-based **PainMonit Clinical Dataset** ([PMCD][PMCD_link]). The code for the former can be found in the [PMED/](PMED/) directory, and the code for the latter can be found in the [PMCD/](PMCD/) directory.
 
-A more detailed description of the dataset can be found in the paper '**An Experimental and Clinical Physiological Signal Dataset for Automated Pain Recognition**' published in *Scientific Data* can be found under following [link][paper_link].
+A more detailed description of the dataset can be found in the paper **An Experimental and Clinical Physiological Signal Dataset for Automated Pain Recognition**, which was published in *Scientific Data* and can be accessed via the following [link][paper_link].
 
 ## How to use this repository
 - Clone the project
@@ -88,6 +88,7 @@ Bibtex entry:
 }
 ```
 
+[PMD_link]: https://doi.org/10.6084/m9.figshare.26965159
 [PMED_link]: https://github.com/gouverneurp/PMD/tree/main?tab=readme-ov-file#how-to-use-the-pmed
 [PMCD_link]: https://github.com/gouverneurp/PMD/tree/main?tab=readme-ov-file#how-to-use-the-pmcd
 [paper_link]: https://rdcu.be/enIRG
