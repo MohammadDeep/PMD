@@ -4,7 +4,6 @@ import numpy as np
 import pandas as pd
 from pathlib import Path
 import matplotlib.pyplot as plt
-
 from config import np_dir
 
 def np_pmhdb_exists(np_dir= np_dir):
