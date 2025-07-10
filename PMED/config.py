@@ -31,7 +31,7 @@ sensor_names = ["Bvp", "Eda_E4", "Resp", "Eda_RB", "Ecg", "Emg"]
 # Directory of the raw data
 raw_dir = Path("dataset", "raw-data")
 # input raw dataset dir file *.csv dataset
-raw_dir = Path(input('enter  row dataset'))
+raw_dir = Path('/home/mohammad/code_PMC/PMD/dataset/raw-data')
 # Directory of the segmented data (np files)
 np_dir = Path(raw_dir.parent, "np-dataset")
-np_dir = Path(input('enter np_dir np-dataset(conpliet np_data_dir)'))
+#np_dir = Path(input('enter np_dir np-dataset(conpliet np_data_dir)'))
